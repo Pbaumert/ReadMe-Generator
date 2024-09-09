@@ -1,2 +1,2 @@
 # ReadMe-Generator
-This application generates ReadMe files on demand in markdown format
+This application generates ReadMe files in markdown format on demand 
